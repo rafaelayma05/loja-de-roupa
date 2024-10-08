@@ -1,0 +1,214 @@
+* {
+    box-sizing: border-box;
+    
+    margi
+
+   
+margin: 0;
+    
+   
+padding: 0;
+}
+
+body {
+    
+ 
+font-family: Arial, sans-serif;
+    
+    backgroun
+
+    backg
+background-color: #f4f4f4;
+    color: #333;
+}
+
+
+}
+
+head
+header {
+    
+    backgrou
+
+    back
+
+    
+background-color: #000;
+    
+    
+
+ 
+color: #fff;
+    padding: 10px 0;
+    
+    text-ali
+
+    
+
+ 
+text-align: center;
+}
+
+
+}
+
+na
+
+}
+nav ul {
+    
+    list-
+
+    
+
+ 
+list-style-type: none;
+    padding: 0;
+}
+
+
+}
+
+n
+nav ul li {
+    
+    
+display: inline;
+    
+    marg
+margin: 0 15px;
+}
+
+nav a {
+    
+  
+color: #fff;
+    
+    text-de
+
+ 
+text-decoration: none;
+}
+
+
+}
+main {
+    padding: 20px;
+}
+
+
+}
+
+h
+h2 {
+    
+    text-ali
+
+    tex
+
+ 
+text-align: center;
+    
+    m
+margin-bottom: 20px;
+}
+
+
+}
+.produto {
+    border: 1px solid #000;
+    
+    backgrou
+
+    ba
+background-color: #fff;
+    
+    
+padding: 15px;
+    
+   
+margin: 10px;
+    
+    displa
+display: inline-block;
+    
+    widt
+width: 200px;
+    
+    text-
+
+   
+text-align: center;
+}
+
+
+}
+.produto img {
+    
+    
+max-width: 100%;
+}
+
+
+}
+
+butt
+button {
+    
+    backgroun
+
+    
+background-color: #000;
+    
+    co
+
+  
+color: #fff;
+    
+    bord
+
+ 
+border: none;
+    
+    pad
+padding: 10px;
+    
+    
+cursor: pointer;
+}
+
+
+}
+
+butto
+button:hover {
+    
+    bac
+background-color: #444;
+}
+
+
+}
+
+foo
+footer {
+    
+    text-al
+text-align: center;
+    
+    padd
+padding: 10px 0;
+    
+    
+background-color: #000;
+    color: #fff;
+    
+  
+position: relative;
+    
+    botto
+
+   
+bottom: 0;
+    width: 100%;
+}
